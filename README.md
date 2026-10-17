@@ -1,8 +1,10 @@
 # Leedly Agent Operations Handbook
 
-Run a marketing team of AI agents with a shared record, clear ownership, and evidence another agent can use to continue the work.
+By Clayton Turner, founder of [Leedly](https://leedly.com/). Updated October 17, 2026.
 
-This handbook explains how to document roles, assign work, hand it off, verify outcomes, and improve a process from experience. Its commercial scoreboard starts with qualified leads and sales. Search rankings, AI mentions, traffic, and advertising results explain what contributed to those outcomes.
+I want another authorized agent to be able to open the record, understand the job, and continue the work. That takes a named owner, clear limits, and evidence of what happened.
+
+This handbook shares how I document roles, assign work, hand it off, verify outcomes, and improve the process from experience at Leedly. My commercial scoreboard starts with qualified leads and sales. Search rankings, AI mentions, traffic, and advertising results help explain what contributed to those outcomes.
 
 ## Start here
 
