@@ -1,0 +1,21 @@
+{
+  "schema_version": 2,
+  "event": "start",
+  "run_id": "example-only-run-001",
+  "ts": "2026-01-01T00:00:00Z",
+  "agent": "example-worker",
+  "model": "replace-with-actual-model-id",
+  "human": "account-owner",
+  "client": "synthetic-example",
+  "task": "Synthetic rehearsal: review relative links in a sample document",
+  "output": "No artifact produced at this start event",
+  "impact": "Test whether another agent can continue the documented task",
+  "status": "partial",
+  "task_refs": [],
+  "evidence_refs": [],
+  "handoff": "replace-with-private-handoff-reference",
+  "blockers": [],
+  "next_action": "Read the sample document and save a link-check report",
+  "verification": "not_run",
+  "changes_applied": []
+}

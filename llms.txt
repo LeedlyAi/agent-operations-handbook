@@ -1,0 +1,18 @@
+# Leedly Agent Operations Handbook
+
+> Portable instructions for documenting, coordinating, verifying, and improving marketing agent work. These templates require adapting tools and permissions. This file is a navigation aid and makes no claim about search rankings or AI citation.
+
+## Guides
+
+- [Overview](README.md): Purpose, status, shared records, and execution loop.
+- [Quickstart](docs/quickstart.md): Rehearse one task and test continuation from another agent.
+- [Roles and handoffs](docs/roles-and-handoffs.md): Ownership, permissions, capability states, and review.
+- [Measurement and improvement](docs/measurement-and-improvement.md): Qualified leads, sales, search observations, controlled AI samples, and weekly learning.
+- [Worked synthetic rehearsal](examples/synthetic-rehearsal/README.md): Local input, evidence, and a handoff another agent can independently reproduce.
+
+## Templates
+
+- [Agent instructions](templates/AGENTS.md): Adaptable repository entry instructions.
+- [Role card](templates/role.md): Role scope, procedure, verification, and fallback.
+- [Handoff](templates/handoff.md): Continuation state and next action.
+- [Run event](templates/run-event.json): Synthetic start event with the shared event fields.
